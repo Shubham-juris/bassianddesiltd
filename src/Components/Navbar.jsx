@@ -28,18 +28,18 @@ function Navbar() {
         <h1 className="font-poppins text-2xl font-bold">
           <Link to="/" className="text-[#1A8EFD] no-underline tracking-wide">
             Bhassi
-            <span className="text-[#54de54] font-cambria text-3xl font-bold ml-1">
+            <span className="text-[#54de54] font-cambria text-2xl font-bold ml-1">
               & Dhesi services
             </span>
           </Link>
         </h1>
 
         {/* Desktop Nav */}
-        <ul className="hidden md:flex items-center gap-8 font-rubik text-lg">
+        <ul className="hidden lg:flex items-center gap-8 font-rubik text-lg">
           <li>
-            <Link to="/" className="text-black hover:text-[#0cc2ea] no-underline tracking-wide">
+            <a href='#home' className="text-black hover:text-[#0cc2ea] no-underline tracking-wide">
               Home
-            </Link>
+            </a>
           </li>
           <li>
             <a href="#services" className="text-black hover:text-[#0cc2ea] no-underline tracking-wide">
@@ -62,13 +62,13 @@ function Navbar() {
        <Link to='/appointment'> <button
           onClick={handleChatBtnClick}
           disabled={isButtonDisabled}
-          className="hidden md:block cursor-pointer  bg-[#1A8EFD] hover:bg-white hover:text-[#1A8EFD] text-white border border-transparent hover:border-[#1A8EFD] transition-all duration-300 rounded-full px-5 py-2 font-rubik text-lg tracking-wide"
+          className="hidden lg:block cursor-pointer  bg-[#1A8EFD] hover:bg-white hover:text-[#1A8EFD] text-white border border-transparent hover:border-[#1A8EFD] transition-all duration-300 rounded-full px-5 py-2 font-rubik text-lg tracking-wide"
         >
           <FaCommentDots className="inline mr-2" /> Request Service
         </button> </Link>
 
         {/* Hamburger Icon */}
-        <div className="md:hidden">
+        <div className="lg:hidden">
           <FaBars className="w-6 h-6 cursor-pointer hover:text-[#0cc2ea]" onClick={toggleNav} />
         </div>
       </div>
