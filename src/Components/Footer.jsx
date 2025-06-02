@@ -13,7 +13,7 @@ function Footer() {
       <div className="px-10 py-10 flex flex-wrap justify-between items-start gap-4 text-white border-b-2 border-[#293241] rounded-sm">
         <div className="max-w-xl">
           <p className="text-[#1A8EFD] text-3xl font-bold font-poppins">
-            Bhassi <span className="text-[#1ECAB0]">&</span> Dhesi Services
+            Bassi <span className="text-[#1ECAB0]">&</span> Dhesi Services
           </p>
           <p className="mt-4 mb-10 text-[#D0D3DA] text-lg leading-7 font-rubik">
             Professional cleaning and construction services tailored for your residential and commercial needs. From post-construction cleanups to full-scale renovations, we deliver quality, safety, and satisfaction.
@@ -63,8 +63,8 @@ function Footer() {
           <p className="text-xl font-bold font-rubik mb-4">Contact Us</p>
           <ul className="space-y-4 font-bold text-sm text-[#a5a7ac]">
             <li>
-              <a href="mailto:info@bhassidhesiservices.com" className="hover:border-b-2 border-dotted border-[#a5a7ac]">
-                info@bhassidhesiservices.com
+              <a href="mailto:info@bassidhesiservices.com" className="hover:border-b-2 border-dotted border-[#a5a7ac]">
+                info@bassidhesiservices.com
               </a>
             </li>
             <li>
@@ -82,7 +82,7 @@ function Footer() {
 
           <div className="mt-4 rounded-xl overflow-hidden">
             <iframe
-              title="Bhassi & Dhesi Location"
+              title="Bassi & Dhesi Location"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.094113372165!2d-113.93621562342472!3d51.09605604380174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537165a7e05b2365%3A0x9d91be77e3939e3f!2s184%20Falshire%20Close%20NE%2C%20Calgary%2C%20AB%20T3J%202Z9%2C%20Canada!5e0!3m2!1sen!2sus!4v1715144219153!5m2!1sen!2sus"
               width="100%"
               height="200"
@@ -96,7 +96,7 @@ function Footer() {
       </div>
 
       <div className="px-10 py-6 flex flex-col md:flex-row justify-between items-center text-[#cbcdd3] font-rubik text-sm font-bold">
-        <p>© {new Date().getFullYear()} Bhassi & Dhesi Services. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Bassi & Dhesi Services. All rights reserved.</p>
 
         <ul className="flex gap-4 mt-4 md:mt-0">
           <li>
