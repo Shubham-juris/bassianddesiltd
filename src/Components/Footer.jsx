@@ -101,17 +101,17 @@ function Footer() {
         <ul className="flex gap-4 mt-4 md:mt-0">
           <li>
             <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 flex justify-center items-center border-2 border-[#cbcdd3] rounded-full hover:border-[#1A8EFD]">
-              <FaLinkedinIn className="text-[#cbcdd3] hover:text-[#1A8EFD]" />
+{/*               <FaLinkedinIn className="text-[#cbcdd3] hover:text-[#1A8EFD]" /> */}
             </a>
           </li>
           <li>
             <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 flex justify-center items-center border-2 border-[#cbcdd3] rounded-full hover:border-[#1A8EFD]">
-              <FaFacebookF className="text-[#cbcdd3] hover:text-[#1A8EFD]" />
+{/*               <FaFacebookF className="text-[#cbcdd3] hover:text-[#1A8EFD]" /> */}
             </a>
           </li>
           <li>
             <a href="https://x.com/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 flex justify-center items-center border-2 border-[#cbcdd3] rounded-full hover:border-[#1A8EFD]">
-              <FaXTwitter className="text-[#cbcdd3] hover:text-[#1A8EFD]" />
+{/*               <FaXTwitter className="text-[#cbcdd3] hover:text-[#1A8EFD]" /> */}
             </a>
           </li>
         </ul>
