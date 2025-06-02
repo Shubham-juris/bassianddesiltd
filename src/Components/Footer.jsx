@@ -13,7 +13,7 @@ function Footer() {
       <div className="px-10 py-10 flex flex-wrap justify-between items-start gap-4 text-white border-b-2 border-[#293241] rounded-sm">
         <div className="max-w-xl">
           <p className="text-[#1A8EFD] text-3xl font-bold font-poppins">
-            Bassi <span className="text-[#1ECAB0]">&</span> Dhesi Services
+            Bassi <span className="text-[#1ECAB0]">&</span> Dhesi ServicesLtd.
           </p>
           <p className="mt-4 mb-10 text-[#D0D3DA] text-lg leading-7 font-rubik">
             Professional cleaning and construction services tailored for your residential and commercial needs. From post-construction cleanups to full-scale renovations, we deliver quality, safety, and satisfaction.
