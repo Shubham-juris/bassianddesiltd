@@ -12,7 +12,7 @@ function Info() {
           </span>
         </h3>
         <p className="text-gray-700 font-rubik text-lg leading-8 tracking-wide mx-4 md:mx-20">
-          At Bhassi & Dhesi Services, we specialize in reliable cleaning and construction solutions.
+          At Bassi & Dhesi Services, we specialize in reliable cleaning and construction solutions.
           From everyday cleaning to complex renovations, we bring quality, trust, and a personal touch to every project.
         </p>
       </div>
