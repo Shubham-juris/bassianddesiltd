@@ -75,7 +75,7 @@ function AppointmentForm() {
     <div className="min-h-screen bg-gray-100 py-10 px-4">
       <h1 className="text-4xl font-bold text-center text-blue-600 mb-8">
         <Link to="/">
-          Bhassi <span className="text-teal-500">&</span> Dhesi Services
+          Bassi <span className="text-teal-500">&</span> Dhesi Services
         </Link>
       </h1>
 
