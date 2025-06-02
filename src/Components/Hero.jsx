@@ -37,7 +37,7 @@ function Hero() {
             Professional Cleaning & Construction Services
           </h2>
           <p className="text-gray-700 font-rubik text-base sm:text-lg tracking-wide leading-relaxed max-w-lg my-6 sm:my-8">
-            Offering Bhassi and Dhesi-style cleaning, repairs, remodeling, and
+            Offering Bassi and Dhesi-style cleaning, repairs, remodeling, and
             post-construction cleaning with a personal touch. Reliable and
             community-driven service you can trust.
           </p>
