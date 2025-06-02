@@ -27,7 +27,7 @@ function About() {
         </h3>
 
         <p className="text-gray-700 font-rubik text-lg tracking-wide leading-7 my-8">
-          Welcome to Bhassi & Dhesi Services — your go-to team for reliable cleaning
+          Welcome to Bassi & Dhesi Services — your go-to team for reliable cleaning
           and construction solutions. With a strong foundation in community values and
           hands-on experience, we deliver professional results with a personal touch.
           From spotless homes to robust renovations, we build trust while we build your space.
