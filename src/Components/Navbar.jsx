@@ -27,7 +27,7 @@ function Navbar() {
         {/* Logo */}
         <h1 className="font-poppins text-2xl font-bold">
           <Link to="/" className="text-[#1A8EFD] no-underline tracking-wide">
-            Bhassi
+            Bassi
             <span className="text-[#54de54] font-cambria text-2xl font-bold ml-1">
               & Dhesi services
             </span>
