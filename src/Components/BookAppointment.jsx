@@ -30,7 +30,7 @@ function BookAppointment() {
         </h3>
 
         <p className="text-gray-700 font-rubik text-lg tracking-wide leading-8 my-8">
-          Bhassi & Dhesi Services offers dependable cleaning and construction solutions
+          Bassi & Dhesi Services offers dependable cleaning and construction solutions
           designed around your schedule and standards. From daily cleaning to major renovations,
           our skilled team delivers quality results with professionalism and care.
         </p>
