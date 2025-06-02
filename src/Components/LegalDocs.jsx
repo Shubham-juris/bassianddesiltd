@@ -11,7 +11,7 @@ function LegalDocs() {
       {/* Title Section */}
       <h1 className="text-center text-4xl sm:text-5xl font-bold text-blue-500 font-poppins bg-white py-2 rounded">
         <Link to="/">
-          Bhassi<span className="text-green-500 font-cambria text-5xl sm:text-6xl font-extrabold">&Dhesiservices</span>
+          Bassi<span className="text-green-500 font-cambria text-5xl sm:text-6xl font-extrabold">&Dhesiservices</span>
         </Link>
       </h1>
 
